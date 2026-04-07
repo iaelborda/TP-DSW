@@ -4,7 +4,7 @@
 
 ### Integrantes
 
-* legajo - Apellido(s), Nombre(s)
+* 52665 - Mistraletti, Alejo
 * legajo - Apellido(s), Nombre(s)
 * legajo - Apellido(s), Nombre(s)
 * legajo - Apellido(s), Nombre(s)
@@ -24,7 +24,7 @@ y acceder a rutinas de entrenamiento personalizadas creadas por los instructores
 El personal administrativo gestiona altas, pagos y la asignación de rutinas.
 
 ### Modeloo de dominio
-Aca va la foto
+Aca agregue la fotro
 
 ## Alcance Funcional
 
